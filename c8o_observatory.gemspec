@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = "A simple observatory for your Ruby code."
   spec.description = "A simpe observatory for your Ruby code."
   spec.homepage = "https://www.collabor8online.co.uk"
-  spec.required_ruby_version = ">= 3.0.0"
+  spec.required_ruby_version = ">= 3.2.0"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
